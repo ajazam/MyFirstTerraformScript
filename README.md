@@ -1,4 +1,4 @@
-#My first terraform script
+# My first terraform script
 
 Clone this repository into your computer. 
 
